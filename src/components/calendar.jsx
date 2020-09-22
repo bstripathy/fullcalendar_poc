@@ -11,7 +11,7 @@ export default function SimpleFullCalender(props) {
       weekends={false}
       events={[
         { title: "event 1", date: "2020-09-09" },
-        { title: "event 2", date: "2020-08-09" }
+        { title: "event 2", date: "2020-09-08" }
       ]}
     />
   );
